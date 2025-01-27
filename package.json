@@ -1,0 +1,21 @@
+{
+  "name": "cucumber-playwright",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumber-js --format cucumber-js-extent:spark.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^11.2.0",
+    "@cucumber/html-formatter": "^21.8.0",
+    "@playwright/test": "^1.49.1",
+    "chai": "^5.1.2",
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {
+    "ansi-to-html": "^0.7.2",
+    "cucumber-js-extent": "^0.1.0"
+  }
+}
