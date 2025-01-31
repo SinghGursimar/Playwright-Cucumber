@@ -15,3 +15,6 @@
 ├── package.json
 └── cucumber.js                # Cucumber configuration file
 5.
+
+Leveling Up with QE Dojo Training
+To sharpen my skills, I completed the QE Dojo Training, which helped me refine my approach to test automation, quality engineering, and CI/CD best practices. It gave me a fresh perspective on testing strategies and reinforced my ability to build high-quality automation frameworks. Definitely a great learning experience that I’ve been applying to my work ever since!
