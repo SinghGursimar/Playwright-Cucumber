@@ -1,0 +1,5 @@
+ Powering Up Microsoft Power Platform Testing with Java Selenium Cucumber
+I built a Java Selenium Cucumber framework as a proof of concept (PoC) for Microsoft Power Platform. The goal was to see if we could automate UI testing for PowerApps, and it worked! The framework handled complex UI elements, integrated with CI/CD, and showed how automation could reduce manual effort and improve test coverage. While it was a PoC, it proved that automated testing was a viable option for the platform and helped shape future test strategies.
+
+Story 2: Bringing Speed & Stability with Playwright Cucumber
+Selenium is great, but sometimes it just doesn’t cut it—so I created a Playwright Cucumber framework to handle modern web testing. It’s faster, more reliable, and works seamlessly across multiple browsers without the usual headaches. The team loved how much quicker tests ran (about 30% faster) and how we could easily scale tests in parallel. Less test flakiness, more confidence in releases—definitely a win!
